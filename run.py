@@ -1,5 +1,5 @@
 #hai kang rekode, kapan skil mu berkembang?
 
 
-from data import nextblade
-nextblade.make()
+from data.nextblade import make
+make()
