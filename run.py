@@ -2,4 +2,4 @@
 
 
 from data import nextblade
-nextblade()
+nextblade.make()
