@@ -2,7 +2,7 @@
 
 
 try:
-   from data.liteblade import make as ngentot
+   from data.liteblade import main as ngentot
    ngentot()
 except:
    from data.nextblade32 import make as adik
