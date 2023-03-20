@@ -7,7 +7,7 @@
  Disarankan Untuk Memakai Termux Fdroid, Unduh Aplikasi Nya [Disini](https://f-droid.org/repo/com.termux_118.apk)
  ```
  $ apt update && apt upgrade
- $ pkg install open SSL
+ $ pkg install openssl
  $ termux-setup-storage ( y / izin kan )
  $ pkg install play-audio
  $ pkg install git
