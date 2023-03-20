@@ -11,9 +11,9 @@
  $ termux-setup-storage ( y / izin kan )
  $ pkg install play-audio
  $ pkg install git
- $ pip install -r requirements.txt
  $ git clone https://github.com/RozhBasXYZ/NEXT-BLADE
  $ cd NEXT-BLADE
+ $ pip install -r requirements.txt
  $ python run.py
  ```
 #### Jika Sudah Install Script Run Dengan Ini
