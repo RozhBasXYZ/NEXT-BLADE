@@ -18,5 +18,5 @@
  ```
 #### Jika Sudah Install Script Run Dengan Ini
  ```
-  $ cd $HOME/INSTAROZ
+  $ cd $HOME/NEXT-BLADE
   $ python run.py
