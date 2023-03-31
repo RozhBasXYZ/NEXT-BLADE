@@ -1,4 +1,4 @@
-socks
+pysocks
 requests
 bs4
 pycryptodomex
