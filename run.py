@@ -1,2 +1,2 @@
-import liteblade as rozh
+import data.liteblade as rozh
 rozh.main()
