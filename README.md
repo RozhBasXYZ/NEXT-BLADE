@@ -6,18 +6,18 @@
 #### Install Script Di Termux
  Disarankan Untuk Memakai Termux Fdroid, Unduh Aplikasi Nya [Disini](https://f-droid.org/repo/com.termux_118.apk)
  ```
- $ pkg update -y
- $ pkg upgrade -y
- $ pkg install python git play-audio libsodium openssl
- $ SODIUM_INSTALL=system pip install pynacl
- $ termux-setup-storage ( y / izinkan )
- $ git clone https://github.com/RozhBasXYZ/NEXT-BLADE
- $ cd NEXT-BLADE
- $ pip install -r requirements.txt
- $ python build.py
- $ python run.py
+ • pkg update -y
+ • pkg upgrade -y
+ • pkg install python git play-audio libsodium openssl
+ • SODIUM_INSTALL=system pip install pynacl
+ • termux-setup-storage ( y / izinkan )
+ • git clone https://github.com/RozhBasXYZ/NEXT-BLADE
+ • cd NEXT-BLADE
+ • pip install -r requirements.txt
+ • python build.py
+ • python run.py
  ```
 #### Jika Sudah Install Script Run Dengan Ini
  ```
-  $ cd $HOME/NEXT-BLADE
-  $ python run.py
+  • cd $HOME/NEXT-BLADE
+  • python run.py
