@@ -1,4 +1,5 @@
 rich
+cython
 pysocks
 requests
 bs4
