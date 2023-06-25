@@ -14,7 +14,8 @@
  $ git clone https://github.com/RozhBasXYZ/NEXT-BLADE
  $ cd NEXT-BLADE
  $ pip install -r requirements.txt
-$ python run.py
+ $ python build.py
+ $ python run.py
  ```
 #### Jika Sudah Install Script Run Dengan Ini
  ```
