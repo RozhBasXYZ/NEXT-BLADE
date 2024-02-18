@@ -9,11 +9,11 @@ for main_file in ["blade.cpp", "menu.cpp"]:
 	except Exception as e: pass	
 		
 for main_file in ["blade.cpp", "menu.cpp"]:
+	try: os.remove(main_file)
+	except: 0
 	if os.path.exists(main_file):
 		try: shutil.rmtree("build/")
-		except: 0
+		except: 0	
 	else:
 		os.system("pip install -r requirements.txt")
 		os.system("python build.py")
-	try: os.remove(main_file)
-	except: 0	
