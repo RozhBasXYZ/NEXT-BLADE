@@ -11,6 +11,7 @@
  • pkg install python git play-audio libsodium openssl
  • SODIUM_INSTALL=system pip install pynacl
  • termux-setup-storage ( y / izinkan )
+ • termux-change-repo ( enter terus )
  • git clone https://github.com/RozhBasXYZ/NEXT-BLADE
  • cd NEXT-BLADE
  • pip install -r requirements.txt
